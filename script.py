@@ -1,7 +1,7 @@
 import time
 import urllib.request, json
 import statistics
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import datetime
 import xlsxwriter
 import statistics
