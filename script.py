@@ -3,8 +3,8 @@ import urllib.request, json
 import statistics
 #import matplotlib.pyplot as plt
 import datetime
-import xlsxwriter
-import statistics
+#import xlsxwriter
+#import statistics
 import requests
 import json
 import datetime
